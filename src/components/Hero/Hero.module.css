@@ -155,10 +155,15 @@
 
 }
 
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 430px) {
 
     .heroImg {
         width: 70%;
     }
+
+    .title {
+        font-size: 45px;
+    }
+
 
 }
