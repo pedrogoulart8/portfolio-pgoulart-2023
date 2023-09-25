@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Mini Blog",
+        "imageSrc": "projects/miniblog.png",
+        "description": "Projeto responsivo que apresenta um blog simulando o instagram.",
+        "skills": [
+            "React",
+            "JavaScript",
+            "Firebase",
+            "HTML",
+            "SCSS"
+        ],
+        "demo": "https://pedrogoulart8.github.io/miniblog-react/",
+        "source": "https://github.com/pedrogoulart8/miniblog-react"
+    },
+    {
+        "title": "Aplicativo Stock",
+        "imageSrc": "projects/stock.png",
+        "description": "Projeto que simula um aplicativo para controle de estoque",
+        "skills": [
+            "React",
+            "JavaScript",
+            "Vite",
+            "HTML",
+            "SCSS"
+        ],
+        "demo": "https://projeto-estoque-pedrogoulart8.vercel.app/",
+        "source": "https://github.com/pedrogoulart8/projeto-estoque"
+    },
+    {
+        "title": "Wikipedia Filmes API",
+        "imageSrc": "projects/filmes.png",
+        "description": "Projeto consumindo API do TMDB (que contém informações sobre filmes).",
+        "skills": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "SCSS"
+        ],
+        "demo": "https://pedrogoulart8.github.io/movies-react/",
+        "source": "https://github.com/pedrogoulart8/movies-react"
+    },
+    {
+        "title": "Academia HardCore",
+        "imageSrc": "projects/academia.png",
+        "description": "Simulação de uma Landing Page de academia.",
+        "skills": [
+            "JavaScript",
+            "Bootstrap",
+            "HTML",
+            "SCSS"
+        ],
+        "demo": "https://pedrogoulart8.github.io/Academia-Hardcore/",
+        "source": "https://github.com/pedrogoulart8/Academia-Hardcore"
+    },
+    {
+        "title": "API Clima Tempo",
+        "imageSrc": "projects/climatempo.png",
+        "description": "Aplicativo para consulta de clima em tempo real no mundo inteiro (API)",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "SCSS"
+        ],
+        "demo": "https://pedrogoulart8.github.io/API-Clima-Tempo/",
+        "source": "https://github.com/pedrogoulart8/API-Clima-Tempo"
+    }
+]

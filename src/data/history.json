@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Desenvolvedor Front-end",
+      "organisation": "Grupo DLS",
+      "startDate": "Maio, 2022",
+      "endDate": "Setembro, 2022",
+      "experiences": ["Desenvolvimento de temas personalizados para WordPress (PHP, JS, HTML, CSS)", "Implementação de campos personalizados(ACF)", "Sites dinâmicos, responsivos e otimizados com tecnicas de SEO" ],
+      "imageSrc": "history/dls.png"
+    },
+    {
+      "role": "Desenvolvedor Web",
+      "organisation": "Freelancer",
+      "startDate": "Junho, 2020",
+      "endDate": "Abril, 2023",
+      "experiences": ["Desenvolvimento de sites utilizando WordPress, Shopify, Tray, etc.", "Gerenciamento de tráfego pago (Google, Youtube, Instagram, Facebook)"],
+      "imageSrc": "history/freelancer.png"
+    },
+    {
+      "role": "Assistente administrativo",
+      "organisation": "CasaShopping",
+      "startDate": "Agosto, 2016",
+      "endDate": "Janeiro, 2019",
+      "experiences": [
+        "Gerenciamento da equipe operacional e administrativa do estacionamento",
+        "Negociação com fornecedores",
+        "Gestão de conflitos (Reembolsos, avaria, furto)"
+      ],
+      "imageSrc": "history/casashopping.png"
+    }
+  ]
