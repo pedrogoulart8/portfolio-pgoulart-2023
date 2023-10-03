@@ -22,8 +22,8 @@ export const About = () => {
                         <img className={styles.liImg} src={getImageUrl('about/cursorIcon.png')} alt="cursor imagem" />
                         <div className={styles.aboutItemText}>
                             <h3>Desenvolvedor Front-end</h3>
-                            <p>Iniciei minha carreira como Desenvolvedor em 2022 e, desde então, tenho me dedicado a aprimorar minhas habilidades em tecnologias como: 
-                                <br/>
+                            <p>Iniciei minha carreira como Desenvolvedor em 2022 e, desde então, tenho me dedicado a aprimorar minhas habilidades em tecnologias como:
+                                <br />
                                 <strong>
                                     React, JavaScript, PHP, WordPress, HTML, CSS(SCSS), Bootstrap, Node.js, Git, GitHub
                                 </strong>
@@ -31,13 +31,14 @@ export const About = () => {
                         </div>
                     </li>
 
-                    
+
                     <li className={styles.aboutItem}>
                         <img className={styles.liImg} src={getImageUrl('about/uiIcon.png')} alt="UI imagem"
                         />
                         <div className={styles.aboutItemText}>
                             <h3>Experiências anteriores</h3>
-                            <p>Iniciei minha carreira no setor administrativo, porém, nos últimos anos, assumi a gestão do meu próprio e-commerce, ao mesmo tempo em que oferecia serviços de desenvolvimento de websites e tráfego pago para clientes externos.</p>
+                            <p>Embora tenha começado minha carreira no setor administrativo, minha trajetória tomou um novo rumo nos últimos anos.
+                                Após adquirir experiência no gerenciamento do meu próprio e-commerce, direcionei minha atenção para o desenvolvimento de websites para outras empresas.</p>
                         </div>
                     </li>
 
@@ -47,8 +48,8 @@ export const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>Portfólio</h3>
-                            <p> Estou constantemente buscando oportunidades para aprender e evoluir na minha profissão. <br/>
-                            Meu portfólio contém projetos pessoais onde busco aplicar meus conhecimentos em soluções para os problemas do nosso cotidiano.</p>
+                            <p> Estou constantemente buscando oportunidades para aprender e evoluir na minha profissão. <br />
+                                Meu portfólio contém projetos pessoais onde busco aplicar meus conhecimentos em soluções para os problemas do nosso cotidiano.</p>
                         </div>
                     </li>
                 </ul>
