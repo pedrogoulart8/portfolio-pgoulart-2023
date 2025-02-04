@@ -1,0 +1,39 @@
+[
+  
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "skills/typescript.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "Wordpress",
+        "imageSrc": "skills/wordpress.png"
+    },
+    {
+        "title": "Sass",
+        "imageSrc": "skills/sass.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/figma.png"
+    }
+]
